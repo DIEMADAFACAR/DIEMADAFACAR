@@ -1,8 +1,6 @@
 [![Header](https://github.com/DIEMADAFACAR/DIEMADAFACAR/blob/main/assets/Python.png)](https://github.com/DIEMADAFACAR)
 
-    About me
-
-    Latest YouTube Videos
+## _**I'm a beginner Python developer**_
 
     Languages and Tools
 
