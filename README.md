@@ -8,4 +8,10 @@
 ![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logocolor=567990)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logocolor=F8C525)
 
- Follow Me
+### Follow Me
+[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logocolor=123484)](https://www.linkedin.com/in/artem-getashvili-76ba28234)
+[![VKontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logocolor=F8C525)](https://vk.com/artik1098)
+[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logocolor=567990)](https://www.instagram.com/howtoartyom/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=47C5FB)](t.me/llllllollllll)
+
+![DIEMADAFACAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIEMADAFACAR&show_icons=true)
