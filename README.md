@@ -14,4 +14,4 @@
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logocolor=567990)](https://www.instagram.com/howtoartyom/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=47C5FB)](t.me/llllllollllll)
 
-![DIEMADAFACAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIEMADAFACAR&show_icons=true)
+![DIEMADAFACAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIEMADAFACAR&show_icons=true&theme=synthwave)
