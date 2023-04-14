@@ -5,9 +5,9 @@
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logocolor=123484)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logocolor=F8C525)
-![HTML](https://img.shields.io/badge/-html-yellow)
-![CSS](https://img.shields.io/badge/-css-orange)
-![JavaScript](https://img.shields.io/badge/-JS-green)
+![JavaScript](https://img.shields.io/badge/-js-090909?style=for-the-badge&logo=javascript&logocolor=F8C525)
+![PyTorch](https://img.shields.io/badge/-pytorch-090909?style=for-the-badge&logo=pytorch&logocolor=F8C525)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-090909?style=for-the-badge&logo=ScikitLearn&logocolor=F8C525)
 
 
 ### Follow Me
