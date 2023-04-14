@@ -4,8 +4,11 @@
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logocolor=123484)
-![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logocolor=567990)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logocolor=F8C525)
+![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logocolor=123484)
+![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css&logocolor=123484)
+![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JS&logocolor=123484)
+
 
 ### Follow Me
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logocolor=123484)](https://www.linkedin.com/in/artem-getashvili-76ba28234)
