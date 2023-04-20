@@ -15,6 +15,6 @@
 [![VKontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logocolor=F8C525)](https://vk.com/artik1098)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logocolor=567990)](https://www.instagram.com/howtoartyom/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=47C5FB)](https://t.me/howtoartyom)
-[![Huggingface](https://img.shields.io/badge/-Huggingface-090909?style=for-the-badge&logo=Huggingface&logocolor=F8C525)](https://huggingface.co/DIEMADAFACAR)
+[![Huggingface](https://img.shields.io/badge/-Huggingface-090909?style=for-the-badge&logo=Huggingface&logocolor=567990)](https://huggingface.co/DIEMADAFACAR)
 
 ![DIEMADAFACAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIEMADAFACAR&show_icons=true&theme=synthwave)
